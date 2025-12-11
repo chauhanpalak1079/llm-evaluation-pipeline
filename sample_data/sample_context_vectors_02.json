@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "status_code": 200,
+    "data": {
+        "vector_data": [
+            {
+                "id": 30125,
+                "source_url": "https://www.drmalpani.com/success-rates",
+                "text": "IVF Success Rates at Malpani Infertility Clinic: Our clinic maintains success rates of 40-45% for IVF cycles, which is in line with international standards. These rates are influenced by various factors including patient age, embryo quality, and overall health. We provide detailed success rate statistics during consultations.",
+                "tokens": 512,
+                "created_at": "2024-03-15T00:00:00.000Z"
+            },
+            {
+                "id": 30126,
+                "source_url": "https://www.drmalpani.com/about",
+                "text": "Dr. Malpani's clinic has been serving patients since 1988, with over 30 years of experience in reproductive medicine. We combine cutting-edge technology with personalized care.",
+                "tokens": 198,
+                "created_at": "2024-03-15T00:00:00.000Z"
+            },
+            {
+                "id": 30127,
+                "source_url": "https://www.drmalpani.com/treatment-factors",
+                "text": "Factors affecting IVF success: Age is the most important factor, with women under 35 having the highest success rates. Other factors include egg quality, sperm quality, uterine health, and lifestyle factors such as smoking and BMI.",
+                "tokens": 287,
+                "created_at": "2024-03-15T00:00:00.000Z"
+            }
+        ],
+        "sources": {
+            "message_id": 361939,
+            "vector_ids": ["30125", "30126", "30127"],
+            "vectors_used": [30125, 30127],
+            "final_response": ["Our clinic has a success rate of approximately 40-45% for IVF treatments"]
+        }
+    }
+}
