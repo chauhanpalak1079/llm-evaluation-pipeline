@@ -1,0 +1,28 @@
+{
+    "chat_id": 78128,
+    "user_id": 77096,
+    "conversation_turns": [
+        {
+            "turn": 1,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "I know what you're going through. IVF can be a challenging journey, but we're here to help every step of the way.",
+            "created_at": "2025-11-16T17:04:44.000000Z"
+        },
+        {
+            "turn": 2,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "What accommodation options are available near your clinic?",
+            "created_at": "2025-11-16T17:05:00.000000Z"
+        },
+        {
+            "turn": 14,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night. **We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night which include breakfast and medical monitoring.**",
+            "created_at": "2025-11-16T20:42:16.000000Z",
+            "evaluation_note": "Hallucination/Factual Error: The bolded section regarding 'subsidized rooms at our clinic' is explicitly noted as incorrect"
+        }
+    ]
+}

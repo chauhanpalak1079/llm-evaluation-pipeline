@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "status_code": 200,
+    "data": {
+        "vector_data": [
+            {
+                "id": 28960,
+                "source_url": "https://www.drmalpani.com/hotels",
+                "text": "Hotels Near Malpani Infertility Clinic. We have partnered with several hotels to provide comfortable accommodation for our patients. Gopal Mansion is located just 5 minutes from our clinic. An air-conditioned room with TV and bath is only Rs 800 per night. The hotel provides clean, comfortable rooms with all basic amenities.",
+                "tokens": 403,
+                "created_at": "2024-02-09T00:00:00.000Z"
+            },
+            {
+                "id": 27025,
+                "source_url": "https://www.drmalpani.com/hotels",
+                "text": "Budget accommodation near clinic: Hotel Sagar - Rs 600 per night for standard rooms. Hotel Prem - Rs 1000 per night for deluxe rooms with AC. All hotels are within 10 minutes walking distance from the clinic.",
+                "tokens": 205,
+                "created_at": "2024-02-09T00:00:00.000Z"
+            },
+            {
+                "id": 37548,
+                "source_url": "https://www.drmalpani.com/facilities",
+                "text": "Our clinic facilities include state-of-the-art IVF labs, consultation rooms, and recovery areas. We provide comprehensive care throughout your treatment journey.",
+                "tokens": 178,
+                "created_at": "2024-02-09T00:00:00.000Z"
+            }
+        ],
+        "sources": {
+            "message_id": 361938,
+            "vector_ids": ["28960", "27025"],
+            "vectors_used": [27025, 37548, 28960],
+            "final_response": ["For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night."]
+        }
+    }
+}

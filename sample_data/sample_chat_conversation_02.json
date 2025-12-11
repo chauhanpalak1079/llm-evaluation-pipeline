@@ -1,0 +1,27 @@
+{
+    "chat_id": 78129,
+    "user_id": 77097,
+    "conversation_turns": [
+        {
+            "turn": 1,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "Hello! How can I assist you with your fertility treatment questions today?",
+            "created_at": "2025-11-17T10:15:00.000000Z"
+        },
+        {
+            "turn": 2,
+            "sender_id": 77097,
+            "role": "User",
+            "message": "What is the success rate for IVF treatment at your clinic?",
+            "created_at": "2025-11-17T10:16:00.000000Z"
+        },
+        {
+            "turn": 3,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "Our clinic has a success rate of approximately 40-45% for IVF treatments, which is comparable to international standards. Success rates vary based on individual factors such as age, overall health, and specific fertility issues.",
+            "created_at": "2025-11-17T10:17:30.000000Z"
+        }
+    ]
+}
